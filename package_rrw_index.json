@@ -1,0 +1,37 @@
+{
+  "packages": [
+    {
+      "websiteURL": "https://reprapworld.com",
+      "name": "ReprapWorld",
+      "email": "techsupport@reprapworld.com",
+      "maintainer": "Bart Meijer",
+      "platforms": [
+        {
+          "boards": [
+            {
+              "name": "Megatronics v3.x"
+            }
+          ],
+          "architecture": "avr",
+          "name": "ReprapWorld AVR Boards",
+          "category": "Adafruit",
+          "version": "1.0.0",
+          "archiveFileName": "rrw-avr-1.0.0.tar.bz2",
+          "url": "hhttps://github.com/brupje/arduino-board-index/rrw-avr-1.0.0.tar.bz2",
+          "toolsDependencies": [
+            {
+              "name": "avr-gcc",
+              "packager": "arduino",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "name": "avrdude",
+              "packager": "arduino",
+              "version": "6.0.1-arduino5"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
