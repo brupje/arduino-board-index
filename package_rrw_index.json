@@ -18,14 +18,14 @@
           "architecture": "avr",
           "name": "ReprapWorld AVR Boards",
           "category": "Arduino",
-          "version": "1.0.0",
+          "version": "1.0.1",
           "size": "122892",
           "archiveFileName": "rrw-avr-1.0.0.tar.bz2",
-          "checksum": "SHA-256:2bcc1b1711721fb72dcac922a29ab2c00f2f6e68ad8c9726263b0cd311f5d316",
+          "checksum": "SHA-256:73810ea5b31c2176f5712826b0b3d9a488a12bad01b295a5fdda156fbfca0459",
           "help": {
             "online": "https://reprap.world"
           },
-          "url": "https://github.com/brupje/arduino-board-index/raw/master/rrw-avr-1.0.0.tar.bz2",
+          "url": "https://github.com/brupje/arduino-board-index/raw/master/rrw-avr-1.0.1.tar.bz2",
           "toolsDependencies": [{
               "name": "avr-gcc",
               "packager": "arduino",
