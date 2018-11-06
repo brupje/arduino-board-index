@@ -257,16 +257,7 @@
               "version": "1.2.0"
             }
           ]
-        }
-      ],
-      "tools":[  ]
-    },
-    {
-      "websiteURL": "https://reprap.world",
-      "name": "ReprapWorld",
-      "email": "techsupport@reprapworld.com",
-      "maintainer": "Bart Meijer",
-      "platforms": [
+        },
         {
           "boards": [
             {
