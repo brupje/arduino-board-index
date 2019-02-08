@@ -257,9 +257,60 @@
               "version": "1.2.0"
             }
           ]
+        },
+        {
+          "boards": [
+            {
+              "name": "Minitronics v2.0"
+            }
+          ],
+          "architecture": "samd",
+          "name": "ReprapWorld SAMD21 Boards",
+          "category": "Arduino",
+          "version": "1.0.1",
+          "size": "9278665",
+          "archiveFileName": "rrw-samd21-1.0.1.tar.bz2",
+          "checksum": "SHA-256:73ce95e5e3a9e283ca80d3a134d32c4f05e9c58d14b5b6495f04ee3963e0baba",
+          "help": {
+            "online": "https://reprap.world"
+          },
+          "url": "https://github.com/brupje/arduino-board-index/raw/master/rrw-samd21-1.0.1.tar.bz2",
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "4.8.3-2014q1"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.7.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.9.0-arduino6-static"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.1.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "arduinoOTA",
+              "version": "1.2.0"
+            }
+          ]
         }
       ],
       "tools":[  ]
     }
   ]
 }
+
