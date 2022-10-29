@@ -367,9 +367,9 @@
           "name": "ReprapWorld SAMD21 Boards",
           "category": "Arduino",
           "version": "1.0.3",
-          "size": "13269625",
+          "size": "13559405",
           "archiveFileName": "rrw-samd21-1.0.3.tar.bz2",
-          "checksum": "SHA-256:d1154b937743abc702e63961a7ca985bea59d8a8e0e0441e8d7ea4e2a4444285",
+          "checksum": "SHA-256:9c21d8ab4b269b1f0db21c1a6483e4e26a49319980f2f62ecd67b3f0b8092119",
           "help": {
             "online": "https://reprap.world"
           },
